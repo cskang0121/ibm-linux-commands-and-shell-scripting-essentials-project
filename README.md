@@ -1,1 +1,1 @@
-# ibm-linux-commands-and-shell-scripting-essentials-project
+[IBM_Linux Commands Shell Scripting Essentials_2.pdf](https://github.com/cskang0121/ibm-linux-commands-and-shell-scripting-essentials-project/files/8999417/IBM_Linux.Commands.Shell.Scripting.Essentials_2.pdf)
