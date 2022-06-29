@@ -4,6 +4,6 @@ Even nowadays, many companies suffers from a bottleneck - each day, employees mu
 
 As a linux developer, I created a script "backup.sh" which automatically backs up any of these files that have been updated within the past 24 hours. 
 
-* This is a final project from the following course :
+* This is the final project from the following course :
 
 ![IBM_Linux Commands Shell Scripting Essentials_2](https://user-images.githubusercontent.com/79074359/176140794-790a7cc7-25f8-4f16-9255-5550d8fb7292.png)
