@@ -2,7 +2,7 @@
 
 Even nowadays, many companies suffers from a bottleneck - each day, employees must painstakingly perform repetitive and tedious tasks, such as accessing encrypted password files on core servers, and backup those that were updated within the last 24-hours. This introduces human error, lowers security, and takes an unreasonable amount of work. Hence, such periodic processes should be automated.
 
-As a linux developer, I created a script "backup.sh" which automatically backs up any of these files that have been updated within the past 24 hours. 
+To tackle this kind of issues, I created a script "backup.sh" which automatically backs up any of these files that have been updated within the past 24 hours. 
 
 * This is the final project from the following course :
 
